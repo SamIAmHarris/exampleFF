@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828119786233",
+    "project_id": "example-codebase-c3c2wx",
+    "storage_bucket": "example-codebase-c3c2wx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828119786233:android:c8e454ab43d7c753a67828",
+        "android_client_info": {
+          "package_name": "design.kaleo.examplecodebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZblcDXFO1GH2isHfHjvopgH2bjR1BEEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
